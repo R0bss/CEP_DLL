@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\bin\Debug\CEP_DLL.dll
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\bin\Debug\CEP_DLL.pdb
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\bin\Debug\RestSharp.dll
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\bin\Debug\RestSharp.xml
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\obj\Debug\CEP_DLL.csprojAssemblyReference.cache
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\obj\Debug\CEP_DLL.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\obj\Debug\CEP_DLL.csproj.CopyComplete
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\obj\Debug\CEP_DLL.dll
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\obj\Debug\CEP_DLL.pdb
+C:\Users\Roberto\source\repos\CEP_DLL\CEP_DLL\bin\Debug\CEP_DLL.tlb
